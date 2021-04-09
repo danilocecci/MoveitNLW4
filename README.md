@@ -71,4 +71,4 @@ Este projeto é licenciado sob a licença MIT. Dê uma olhada em [LICENÇA](LICE
 
 ---
 
-<p align="center">Totalmente inspirado em [birobirobiro](https://github.com/birobirobiro/) 💜</p>
+Totalmente inspirado em [birobirobiro](https://github.com/birobirobiro/)💜
