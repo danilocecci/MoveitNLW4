@@ -37,7 +37,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 Faça um clone do projeto e acesse a pasta
 
 ```bash
-$ git clone https://github.com/danilocecci/MoveitNLW4.git && cd nlw04-moveit
+$ git clone https://github.com/danilocecci/MoveitNLW4.git && cd MoveitNLW4
 ```
 
 Siga os passos abaixo
